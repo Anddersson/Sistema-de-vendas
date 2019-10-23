@@ -16,10 +16,10 @@ public class ConexaoDB {
 
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     //para uso do banco de dados na nuvem
-    //private static final String URL = "jdbc:mysql://35.247.220.39:3306/tadesgames";
+    private static final String URL = "jdbc:mysql://co4pmgp5qu3ir81j:ww2ayqeal7qmeicu@sp6xl8zoyvbumaa2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/f36u5uhese9hsyqm";
     
     //para uso do banco de dados local
-    private static final String URL = "jdbc:mysql://localhost:3306/teste";
+    //private static final String URL = "jdbc:mysql://localhost:3306/teste";
     private static final String USER = "root";
     private static final String PASS = "";
 
