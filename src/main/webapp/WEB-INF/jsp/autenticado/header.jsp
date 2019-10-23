@@ -26,7 +26,7 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <a class="navbar-brand" href="${pageContext.request.contextPath}/autenticado/Home"> 
-                <img alt="Brand" src="../resources/img/LogoTadesGamesLaranja55x55.png">
+                <img alt="Brand" src="../resources/img/J4cosmeticos55x55.png">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse"

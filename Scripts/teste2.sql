@@ -1,6 +1,6 @@
-CREATE DATABASE tadesgames;
+CREATE DATABASE j4cosmeticos;
 
-use tadesgames;
+use j4cosmeticos;
 
 CREATE TABLE `cliente` (
   `IdCliente` int(11) NOT NULL AUTO_INCREMENT,

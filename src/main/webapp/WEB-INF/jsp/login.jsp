@@ -32,12 +32,15 @@ body {
 		url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
 	background-repeat: no-repeat;
 	backgroubd-position: center;
+	width: auto;
 }
 
 #fonte {
+	position: relative;
 	font-style: italic;
-	margin-left: 50%;
+	margin-left: 180%;
 	margin-right: auto;
+	
 	
 	
 }
@@ -50,14 +53,10 @@ body {
 	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 		<a class="navbar-brand" href="#">
 
-			<h1 id=fonte>Sistema de vendas - J4 Cosméticos</h1>
+			<h1 id=fonte>J4 Cosméticos</h1>
 		</a>
 
-		<button class="navbar-toggler" type="button" data-toggle="collapse"
-			data-target="#navbarColor01" aria-controls="navbarColor01"
-			aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
+		
 	</nav>
 
 	<br>
